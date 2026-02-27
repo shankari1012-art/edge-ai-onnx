@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+images/
+images/calibration/
+pytorch-mobile-edge-inference/
+models/*.onnx.data
